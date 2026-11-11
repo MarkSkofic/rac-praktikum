@@ -1,0 +1,18 @@
+# LaTeX pomocne datoteke
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+*.bcf
+*.run.xml
+*.xdv
+
+# PDF datoteke
+*.pdf
