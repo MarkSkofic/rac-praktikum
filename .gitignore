@@ -13,6 +13,22 @@
 *.bcf
 *.run.xml
 *.xdv
+*.idx
+*.ilg
+*.ind
 
 # PDF datoteke
 *.pdf
+!slika.pdf
+
+# Namestitvene datoteke
+*.exe
+*.msi
+
+# Python naloge
+/04-html/*.py
+/05-latex/*.py
+
+# Dodatne mape
+/04-html/urnik/
+/05-latex/test/
